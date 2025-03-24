@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-fULjX08z.js";const c={};function n(r,o){return a(),e("div")}const i=t(c,[["render",n]]),l=JSON.parse('{"path":"/","title":"首页","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"首页","description":"页面的描述"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{i as comp,l as data};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app-fULjX08z.js";const r={};function n(c,o){return a(),e("div")}const i=t(r,[["render",n]]),d=JSON.parse('{"path":"/guide/getting-started.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/getting-started.md"}');export{i as comp,d as data};
