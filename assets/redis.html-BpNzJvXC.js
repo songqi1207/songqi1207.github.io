@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-HSc8p82e.js";const r={};function c(s,n){return a(),t("div")}const d=e(r,[["render",c]]),i=JSON.parse('{"path":"/md/bagu/redis.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"md/bagu/redis.md"}');export{d as comp,i as data};
